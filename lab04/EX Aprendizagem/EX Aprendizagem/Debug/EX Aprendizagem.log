@@ -1,0 +1,3 @@
+﻿  ex06.cpp
+C:\Users\andre_dpl4b0n\source\repos\lab04\EX Aprendizagem\EX Aprendizagem\ex06.cpp(25,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  EX Aprendizagem.vcxproj -> C:\Users\andre_dpl4b0n\source\repos\lab04\EX Aprendizagem\Debug\EX Aprendizagem.exe

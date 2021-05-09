@@ -1,0 +1,4 @@
+﻿  ex02.cpp
+C:\Users\andre_dpl4b0n\source\repos\lab08\ExFix\ExFix\ex02.cpp(14,29): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\andre_dpl4b0n\source\repos\lab08\ExFix\ExFix\ex02.cpp(15,32): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  ExFix.vcxproj -> C:\Users\andre_dpl4b0n\source\repos\lab08\ExFix\Debug\ExFix.exe

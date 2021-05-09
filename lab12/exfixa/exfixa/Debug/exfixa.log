@@ -1,0 +1,3 @@
+﻿  ex02.cpp
+C:\Users\andre_dpl4b0n\source\repos\lab12\exfixa\exfixa\ex02.cpp(28,2): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+  exfixa.vcxproj -> C:\Users\andre_dpl4b0n\source\repos\lab12\exfixa\Debug\exfixa.exe
